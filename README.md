@@ -92,20 +92,12 @@ MindVault integrates **Together.ai** (LLaMA 3/4) for:
 
 <table>
   <tr>
-    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/onboarding.jpg" width="200"/></td>
-    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/signin.jpg" width="200"/></td>
-    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/signup.jpg" width="200"/></td>
+    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/aichat.jpg" width="200"/></td>
+    <td><img src="assets/images/screenshot_journaling.png" width="200"/></td>
   </tr>
   <tr>
-     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/calmtools.jpg" width="200"/></td>
-    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/setting.jpg" width="200"/></td>
-    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/premium.jpg" width="200"/></td>
-  </tr>
-  
-  <tr>
-    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/calmtools.jpg" width="200"/></td>
-    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/setting.jpg" width="200"/></td>
-    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/premium.jpg" width="200"/></td>
+    <td><img src="assets/images/screenshot_ai_chat.png" width="200"/></td>
+    <td><img src="assets/images/screenshot_trends.png" width="200"/></td>
   </tr>
 </table>
 
