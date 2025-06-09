@@ -38,7 +38,6 @@ MindVault is a calming, structured mobile app designed to help users build **men
 ## 🧠 Powered by AI
 
 MindVault integrates **Together.ai** (LLaMA 3/4) for:
-
 - Insightful journal feedback
 - Meaningful conversation in the AI Coach
 - Adaptable tones: friendly, formal, or motivational
@@ -86,7 +85,7 @@ MindVault integrates **Together.ai** (LLaMA 3/4) for:
 
 ---
 
-## 📸 Screenshots (Grid View)
+ ## 📸 Screenshots (Grid View)
 
 <div align="center">
 
@@ -96,14 +95,12 @@ MindVault integrates **Together.ai** (LLaMA 3/4) for:
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/signin.jpg" width="200"/></td>
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/signup.jpg" width="200"/></td>
   </tr>
-  <tr>
-
-    <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/dashboard.jpg" width="200"/></td>
+   <tr>
+   <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/dashboard.jpg" width="200"/></td>
      <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/journal.jpg" width="200"/></td>
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/aichat.jpg" width="200"/></td>
   </tr>
-
-  </tr>
+  
   <tr>
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/calmtools.jpg" width="200"/></td>
     <td><img src="https://github.com/dipakrana844/Mind-Vault-App/blob/main/upload/setting.jpg" width="200"/></td>
@@ -112,6 +109,7 @@ MindVault integrates **Together.ai** (LLaMA 3/4) for:
 </table>
 
 </div>
+
 
 ---
 
@@ -132,7 +130,7 @@ Unlike generic journaling or mental health apps, MindVault focuses on **daily mi
 ## 📬 Contact
 
 Created by [Dipak Rana]  
-📧 <dipak.rana.dev@gmail.com>
+📧 dipak.rana.dev@gmail.com
 🔗 [Dipak-Rana-portfolio](https://erdipakrana.web.app)
 
 ---
